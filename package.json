@@ -3,10 +3,27 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "browser",
+    "path",
+    "chrome",
+    "firefox",
+    "edge",
+    "opera",
+    "safari" ,
+    "automation"
+  ],
+  "author": "https://github.com/abdelrahman-tarek-0",
+  "license": "MIT",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelrahman-tarek-0/get-browser-path.git"
+  },
+  "homepage": "https://github.com/abdelrahman-tarek-0/get-browser-path#readme",
   "dependencies": {
     "chrome-paths": "^1.0.1"
   }
